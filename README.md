@@ -1,9 +1,11 @@
-# Chines guide line [中文指南](https://mp.weixin.qq.com/s/8KA6wYdFLWnaLfvgf82k7g)
+# Chinese guide line [中文指南](https://mp.weixin.qq.com/s/8KA6wYdFLWnaLfvgf82k7g)
 
 Cocos Creator Ver: 2.3.0
+websocket framework with protobuf
 
-baseon [cocos_creator_framework](https://github.com/wyb10a10/cocos_creator_framework) 
-added protobuf support!
+
+the network framework baseon [cocos_creator_framework](https://github.com/wyb10a10/cocos_creator_framework) 
+just added protobuf support!
 
 the server side for testing [springboot_netty_websocket_protobuffer](https://github.com/fanfq/springboot_netty_websocket_protobuffer)
 
@@ -13,7 +15,7 @@ author:
 
 follwing me!
 
-my vchat channel
+wechat
 ![qrcode](https://raw.githubusercontent.com/fanfq/springboot_netty_websocket_protobuffer/master/dist/vcqrcode.jpg)
 
-[my facebook channel](https://www.facebook.com/FredChannel-100585011578160/)
+[facebook](https://www.facebook.com/FredChannel-100585011578160/)
