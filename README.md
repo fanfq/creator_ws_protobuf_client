@@ -4,7 +4,8 @@ Cocos Creator Ver: 2.3.0
 websocket framework with protobuf
 
 
-the network framework baseon [cocos_creator_framework](https://github.com/wyb10a10/cocos_creator_framework) 
+the network framework baseon [cocos_creator_framework](https://github.com/wyb10a10/cocos_creator_framework) [details](https://forum.cocos.org/t/cocos-creator/84649)
+
 just added protobuf support!
 
 the server side for testing [springboot_netty_websocket_protobuffer](https://github.com/fanfq/springboot_netty_websocket_protobuffer)
