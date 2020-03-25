@@ -1,6 +1,6 @@
-# creator_ws_protobuf_client
-creator_ws_protobuf_client
+# Chines guide line [中文指南](https://mp.weixin.qq.com/s/8KA6wYdFLWnaLfvgf82k7g)
 
+Cocos Creator Ver: 2.3.0
 
 baseon [cocos_creator_framework](https://github.com/wyb10a10/cocos_creator_framework) 
 added protobuf support!
